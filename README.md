@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring Software Engineer (.NET, JAVA), Passionate about Computer Vision and Data Engineering<br>Currently Working on 3D Image Reconstruction from a 2D image<br>Currently learning System Designs and Data Engineering Principles<br><br>Feel free to ask me about anything related to tech<br> 
+Aspiring Software Engineer (.NET, JAVA), Passionate about Computer Vision and Data <br>Currently Working on 3D Image Reconstruction from a 2D image<br>Currently learning System Designs and Data Principles<br><br>Feel free to ask me about anything related to tech<br> 
 
 
 ## 🌐 Socials:
