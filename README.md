@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineer & Data Engineer (.NET, JAVA), Passionate about Computer Vision and Data Engineering.
+Software Engineer & Data Engineer, Passionate about Computer Vision and Data Engineering.
 
 
 ## 🌐 Socials:
