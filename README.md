@@ -1,9 +1,9 @@
 # 💫 About Me:
-Jr. Data Scientist, Passionate about Computer Vision and Data Engineering.
+Jr. Data Scientist
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arif-absar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arifabsar182@gmail.com) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arifabsar182@gmail.com) 
 
 ## 💻 Tech Stack:
 
